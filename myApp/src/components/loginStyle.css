@@ -1,0 +1,148 @@
+.error
+{
+    color:red;
+}
+.background
+{
+    background-color: cornsilk;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    /* border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%; */
+    border-radius: 2%;
+    color:black;
+    border: 2px solid black;
+    /* min-height: 700px; */
+}
+
+.displayData
+{
+    display: flex;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.m-t-5
+{
+    margin-top: 18%;
+}
+.m-b-5
+{
+    margin-bottom: 3%;
+}
+
+/* .btn-grp button
+{
+    margin: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+} */
+.text-danger
+{
+    color:red !important;
+}
+h2
+{
+    margin-top: 15px;
+}
+select
+{
+    background-color: dodgerblue;
+    padding: 3%;
+    border: none;
+    border-radius: 5px;
+    color:white;
+}
+.link
+{
+    text-decoration: none !important;
+}
+.teachers_list input
+{
+    background: transparent;
+    outline: none;
+    border: none;
+    width: 100px;
+}
+.nav-links {
+    color: white !important;
+    text-decoration: none !important;
+    padding-left: 25px;
+}
+.btn-grp button
+{
+    margin-right: 15px;
+}
+.nav-bar
+{
+    margin-bottom: 3%;
+}
+
+.drop
+{
+    margin-right: 15px;
+}
+/* body
+{
+    background: url(../images/blur_back.jpg);
+    /* background-size: cover; */
+/* .btn-primary
+{
+    color: black;
+    background-color: darkolivegreen;
+    border-color: darkgreen;
+}
+.btn-primary:hover
+{
+    color: black;
+    background-color: darkgreen;
+    border-color: darkgreen;
+    text-decoration: none;
+} */
+.fixed-height
+{
+    min-height: 330px;
+}
+.login_page
+{
+    margin-top: 10.5%;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+  }
+
+  a:hover
+  {
+      text-decoration: none !important;
+  }
+
+  .pagi-active :active
+  {
+      background-color: red;
+  }
+  .pagniation-table a:active{
+    color:red;
+  }
+
+  .ul-pagination li
+  {
+      list-style-type: none;
+      display:inline;
+      padding: 5%;
+      border: 1px solid grey;
+      background-color: dodgerblue;
+  }
+  .ul-pagination
+  {
+    width: 25%;
+    margin: auto;
+    margin-bottom: 3%;
+  }
+
+  .ul-pagination li:active
+  {
+      background-color: white;
+  }

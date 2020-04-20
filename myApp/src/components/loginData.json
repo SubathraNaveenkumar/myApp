@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "username": "admin",
+            "password": "admin"
+        }
+    ],
+    "student_login":[
+        {
+            "username": "student",
+            "password": "student"
+        }
+    ],
+    "teacher_login":[
+        {
+            "username": "teacher",
+            "password": "teacher"
+        }
+    ]    
+}
